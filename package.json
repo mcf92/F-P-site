@@ -1,0 +1,15 @@
+{
+  "name": "frenos-partes-site",
+  "version": "1.0.0",
+  "description": "frenos y partes marketig site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcf92/F-P-site.git"
+  },
+  "author": "frenos&partes",
+  "license": "ISC"
+}
